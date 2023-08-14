@@ -1,0 +1,75 @@
+Received: from mail-ed1-f45.google.com (Unknown [10.244.13.56])
+	by 174931b69bad (Haraka/3.0.0) with ESMTP id 304E9DB9-D656-4C26-B9F8-88EFBA40757E.1
+	envelope-from <dawnetteejgysz@gmail.com>;
+	Mon, 14 Aug 2023 07:20:27 +0000
+Received: by mail-ed1-f45.google.com with SMTP id 4fb4d7f45d1cf-525656acf4bso913760a12.0
+        for <vatav66199@tiuas.com>; Mon, 14 Aug 2023 00:20:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20221208; t=1691997627; x=1692602427;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=40KIahvXHESImeL+voH7lVqGKSa0xUeZ9vRF67n3LsU=;
+        b=g0yI22WQMNihRkzDk/wDOnxewPFkYXjucv0DbqxvM+SJ8Hk+fJnCW0f8vALI3uBfhk
+         hn6FyeWQAv8BWZZ3ephiDI7QYj1rjGYXXdfgZp3ML0ISUliduel7q2URwBW0q0DMdWpI
+         TVVQ/57D8BsUpVoLTrPkDdR3lFvQkA19c35EKJOHF4SqNHGVDktKKwYf1FAamOk4tgJJ
+         P5ghu1WLDGxfB0XcrUFdI8nb2ZJxW8n5BkCsXDMalIk3qvfbGMvRpUHWc5aADXi0yRuT
+         tG8TWVxRE2pWH6gDBGVJ1HYM5Yl+kfOJAGOzueDkjMuM30GweEq8qmu+05xAvmhZaox7
+         vWsg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20221208; t=1691997627; x=1692602427;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=40KIahvXHESImeL+voH7lVqGKSa0xUeZ9vRF67n3LsU=;
+        b=JjhoVPG3huJ9BkbSHfkFgPKNA4NPtwOviu94uuP0gM+UJAEPDyAXCEPVVSviwTMIqr
+         A3Aq3QkoL3eN5ScfebMH7n2xXdItUJq+vlDgIiGK3Wlr0aGvGrxTtK6vnyf5JkRxXEM9
+         a4c4hDFfc1ODNt4lU0lbIhMQpLCaB7HJBP8jcfszEiEZZgg3D8XsLwuUk78ypeHGsVC9
+         VRgRciIcV6H7gqhpxtrPr5ufl/T4EIXMVsciKmM6Ospdbe0az+kDwbaAXI1elBNxWka+
+         GKsNR2k08Ef2LBHDcmNsMjmjpn5cCpXVgM0bekf2sI2r7oW2J+RyQF5KRcVYQI1NEljq
+         96FQ==
+X-Gm-Message-State: AOJu0Yyp0PG0qOHpiBR2jEjzKQL2sKWuUGQLJR6H9lijB0S1DNyUd6So
+	3Mxn3zTR5rpNXLjoikvv0idzwqF/E9iwtdLGrWA9+D1h
+X-Google-Smtp-Source: AGHT+IHVN3jD2cRgwX0VBhJQMlEMMRQqVWkT9cl2K2PgxE5vzy3d+6HIkDrqtBPuN7Y+l2QbnTr4KX42JMLEC/67hx4=
+X-Received: by 2002:aa7:c30f:0:b0:523:6c47:56f8 with SMTP id
+ l15-20020aa7c30f000000b005236c4756f8mr6850900edq.18.1691997626882; Mon, 14
+ Aug 2023 00:20:26 -0700 (PDT)
+MIME-Version: 1.0
+From: ha Su <dawnetteejgysz@gmail.com>
+Date: Mon, 14 Aug 2023 15:20:16 +0800
+Message-ID: <CA+n208tyy9TZ6td=3L3b1GeUNyvb26x8zXNJ6fzghRcWxf+P8A@mail.gmail.com>
+Subject: sdvsd
+To: vatav66199@tiuas.com
+Content-Type: multipart/mixed; boundary="00000000000082fd720602dce508"
+
+--00000000000082fd720602dce508
+Content-Type: multipart/alternative; boundary="00000000000082fd700602dce506"
+
+--00000000000082fd700602dce506
+Content-Type: text/plain; charset="UTF-8"
+
+
+
+--00000000000082fd700602dce506
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr"><br></div>
+
+--00000000000082fd700602dce506--
+--00000000000082fd720602dce508
+Content-Type: application/octet-stream; name="AnyViwer Windows RDP.yml"
+Content-Disposition: attachment; filename="AnyViwer Windows RDP.yml"
+Content-Transfer-Encoding: base64
+Content-ID: <f_llajoysp0>
+X-Attachment-Id: f_llajoysp0
+
+bmFtZTogQW55Vmlld2VyIFdpbmRvd3MgUkRQCgpvbjoKICB3b3JrZmxvd19kaXNwYXRjaDoKCmpv
+YnM6CiAgYnVpbGQ6CiAgICBydW5zLW9uOiB3aW5kb3dzLWxhdGVzdAoKICAgIHN0ZXBzOgogICAg
+ICAtIG5hbWU6IERvd25sb2FkaW5nICYgU2V0dGluZyBVcAogICAgICAgIHJ1bjogfAogICAgICAg
+ICBlY2hvICJFTUFJTF9TRUNSRVQ9WW91ciBBbnl2aWV3ZXIgTWFpbCIgPiBzZWNyZXRzLnR4dAog
+ICAgICAgICBlY2hvICJQQVNTV09SRF9TRUNSRVQ9WU91ciBBbnlWaWV3ZXIgUGFzcyIgPj4gc2Vj
+cmV0cy50eHQKICAgICAgICAgSW52b2tlLVdlYlJlcXVlc3QgLVVyaSAiaHR0cHM6Ly93d3cuZHJv
+cGJveC5jb20vc2gvbDU2N251MmZmODRxNGRyL0FBQ1RJTEliSzliaTV5UUx0cDIyMXBUSmEvZG93
+bi5iYXQ/ZGw9MSIgLU91dEZpbGUgImRvd24uYmF0IgogICAgICAgICBjbWQgL2MgZG93bi5iYXQK
+ICAgICAgICAgIAogICAgICAtIG5hbWU6IExvZ2luIERldGFpbHMKICAgICAgICBydW46IGNtZCAv
+YyBzaG93LmJhdAoKICAgICAgLSBuYW1lOiBUaW1lIENvdW50ZXIKICAgICAgICBydW46IFN0YXJ0
+LVNsZWVwIC1TZWNvbmRzIDE0NjAwCg==
+--00000000000082fd720602dce508--
